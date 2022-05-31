@@ -2,10 +2,6 @@
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2022-01-18 23:33:31
-# DOMAIN-SUFFIX: 296
-# USER-AGENT: 5
-# IP-CIDR: 2
-# TOTAL: 303
 DOMAIN-SUFFIX,1700.cn
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,700chat.com
@@ -314,9 +310,6 @@ IP-CIDR,103.7.28.0/22,no-resolve
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2022-04-03 10:56:30
-# DOMAIN: 5
-# IP-CIDR: 9
-# TOTAL: 14
 DOMAIN,dl.wechat.com
 DOMAIN,sglong.wechat.com
 DOMAIN,sgminorshort.wechat.com
@@ -336,9 +329,6 @@ IP-CIDR,129.226.3.47/32,no-resolve
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2022-01-18 23:33:31
-# DOMAIN-SUFFIX: 3
-# USER-AGENT: 2
-# TOTAL: 5
 DOMAIN-SUFFIX,mfm.video.qq.com
 DOMAIN-SUFFIX,v.smtcdns.com
 DOMAIN-SUFFIX,vv.video.qq.com
@@ -349,8 +339,6 @@ USER-AGENT,TencentMidasConnect*
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2022-01-18 23:33:31
-# DOMAIN-SUFFIX: 10
-# TOTAL: 10
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyu.tv
 DOMAIN-SUFFIX,douyuba.cn
@@ -366,10 +354,6 @@ DOMAIN-SUFFIX,oywtv.com
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2022-01-18 23:33:31
-# DOMAIN-SUFFIX: 34
-# IP-CIDR: 1
-# USER-AGENT: 2
-# TOTAL: 37
 DOMAIN-SUFFIX,0co3geye.cn
 DOMAIN-SUFFIX,2isbbess.cn
 DOMAIN-SUFFIX,33lwhaoinc.cn
@@ -412,8 +396,6 @@ IP-CIDR,106.11.0.0/16,no-resolve
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2022-01-18 23:33:32
-# DOMAIN-SUFFIX: 234
-# TOTAL: 234
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,300hu.com
 DOMAIN-SUFFIX,360buy.cn
@@ -648,3 +630,56 @@ DOMAIN-SUFFIX,yihaomall.com
 DOMAIN-SUFFIX,yixun.com
 DOMAIN-SUFFIX,yiyaojd.com
 DOMAIN-SUFFIX,yizhitou.com
+
+# 王者荣耀
+IP-CIDR,58.246.223.140/32,no-resolve
+IP-CIDR,58.250.136.0/24,no-resolve
+IP-CIDR,58.251.139.0/24,no-resolve
+IP-CIDR,61.129.8.0/24,no-resolve
+IP-CIDR,61.151.224.100/32,no-resolve
+IP-CIDR,61.151.225.249/32,no-resolve
+IP-CIDR,101.37.15.0/24,no-resolve
+IP-CIDR,101.89.15.142/32,no-resolve
+IP-CIDR,101.226.90.176/32,no-resolve
+IP-CIDR,101.226.103.77/32,no-resolve
+IP-CIDR,101.226.103.110/32,no-resolve
+IP-CIDR,101.226.129.0/24,no-resolve
+IP-CIDR,101.226.213.140/32,no-resolve
+IP-CIDR,101.227.162.110/32,no-resolve
+IP-CIDR,101.227.168.0/24,no-resolve
+IP-CIDR,103.18.208.0/24,no-resolve
+IP-CIDR,110.75.246.3/32,no-resolve
+IP-CIDR,111.161.54.47/32,no-resolve
+IP-CIDR,111.161.80.77/32,no-resolve
+IP-CIDR,111.202.99.18/32,no-resolve
+IP-CIDR,117.144.242.115/32,no-resolve
+IP-CIDR,117.144.243.171/32,no-resolve
+IP-CIDR,120.204.10.204/32,no-resolve
+IP-CIDR,121.51.142.0/24,no-resolve
+IP-CIDR,125.39.133.100/32,no-resolve
+IP-CIDR,125.39.248.0/24,no-resolve
+IP-CIDR,140.207.54.118/32,no-resolve
+IP-CIDR,140.207.69.43/32,no-resolve
+IP-CIDR,140.207.119.111/32,no-resolve
+IP-CIDR,140.207.122.0/24,no-resolve
+IP-CIDR,140.207.127.0/24,no-resolve
+IP-CIDR,140.207.189.23/32,no-resolve
+IP-CIDR,180.163.32.0/24,no-resolve
+IP-CIDR,180.163.21.0/24,no-resolve
+IP-CIDR,180.163.25.0/24,no-resolve
+IP-CIDR,182.254.4.0/24,no-resolve
+IP-CIDR,182.254.5.0/24,no-resolve
+IP-CIDR,182.254.10.0/24,no-resolve
+IP-CIDR,182.254.11.0/24,no-resolve
+IP-CIDR,182.254.82.0/24,no-resolve
+IP-CIDR,182.254.95.0/24,no-resolve
+IP-CIDR,183.3.235.141/32,no-resolve
+IP-CIDR,183.232.103.166/32,no-resolve
+IP-CIDR,183.61.49.155/32,no-resolve
+IP-CIDR,203.205.151.0/24,no-resolve
+IP-CIDR,218.98.0.0/24,no-resolve
+IP-CIDR,219.133.60.0/24,no-resolve
+IP-CIDR,223.166.150.0/24,no-resolve
+IP-CIDR,223.167.86.33/32,no-resolve
+IP-CIDR,223.167.104.0/24,no-resolve
+USER-AGENT,smoba*
