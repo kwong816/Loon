@@ -1,7 +1,4 @@
 # NAME: Tencent
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:31
 DOMAIN-SUFFIX,1700.cn
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,700chat.com
@@ -307,9 +304,6 @@ IP-CIDR,103.238.16.0/23,no-resolve
 IP-CIDR,103.7.28.0/22,no-resolve
 
 # NAME: WeChat
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-03 10:56:30
 DOMAIN,dl.wechat.com
 DOMAIN,sglong.wechat.com
 DOMAIN,sgminorshort.wechat.com
@@ -326,9 +320,6 @@ IP-CIDR,129.226.107.244/32,no-resolve
 IP-CIDR,129.226.3.47/32,no-resolve
 
 # NAME: TencentVideo
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:31
 DOMAIN-SUFFIX,mfm.video.qq.com
 DOMAIN-SUFFIX,v.smtcdns.com
 DOMAIN-SUFFIX,vv.video.qq.com
@@ -336,9 +327,6 @@ USER-AGENT,MOO*
 USER-AGENT,TencentMidasConnect*
 
 # NAME: Douyu
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:31
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyu.tv
 DOMAIN-SUFFIX,douyuba.cn
@@ -351,9 +339,6 @@ DOMAIN-SUFFIX,doyonoc.com
 DOMAIN-SUFFIX,oywtv.com
 
 # NAME: Youku
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:31
 DOMAIN-SUFFIX,0co3geye.cn
 DOMAIN-SUFFIX,2isbbess.cn
 DOMAIN-SUFFIX,33lwhaoinc.cn
@@ -393,9 +378,6 @@ USER-AGENT,Youku*
 IP-CIDR,106.11.0.0/16,no-resolve
 
 # NAME: JingDong
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:32
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,300hu.com
 DOMAIN-SUFFIX,360buy.cn
